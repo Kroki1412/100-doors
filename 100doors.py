@@ -5,7 +5,6 @@
 
 # this part of the script is creating the 100 doors in a list as 0 (closed).
 door_list = []
-door_number = []
 i = 0
 while (i <= 99):
     door_list.append('0')
